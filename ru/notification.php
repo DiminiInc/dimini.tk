@@ -3,7 +3,7 @@
 		Вы используете тестовую версию сайта. Часть функций и контента может быть недоступна. Открыть старую версию сайта? 
 	</div>
 	<div class="information-choice">
-		<a href="http://dimini.tk">Да</a> 
+		<a href="https://sites.google.com/site/diminiinc/">Да</a> 
 		<a href="javascript:void(0)" onclick="localStorage.setItem('notify_close', 'yes');hideNotification('notification'); return false;">Нет</a>
 	</div>
 </div>

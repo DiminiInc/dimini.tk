@@ -3,7 +3,7 @@
 		You are using beta version of the site. Some functions and content may be unavailable. Open old version of the site? 
 	</div>
 	<div class="information-choice">
-		<a href="http://dimini.tk">Yes</a> 
+		<a href="https://sites.google.com/site/diminiinc/">Yes</a> 
 		<a href="javascript:void(0)" onclick="localStorage.setItem('notify_close', 'yes');hideNotification('notification'); return false;">No</a>
 	</div>
 </div>
