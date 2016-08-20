@@ -24,23 +24,23 @@
 				{
   					if (localStorage.getItem("lang")=="en")
 					{
-						window.open("http://dimini-beta.tk/en/error_404","_self");
+						window.open("http://dimini.tk/en/error_404","_self");
 					}
 					if (localStorage.getItem("lang")=="ru")
 					{
-						window.open("http://dimini-beta.tk/ru/error_404","_self");
+						window.open("http://dimini.tk/ru/error_404","_self");
 					}
 				}
 				else
 				{
 					if ((lang=="ru")||(lang=="uk")||(lang=="be"))
 					{
-						window.open("http://dimini-beta.tk/ru/error_404","_self");
+						window.open("http://dimini.tk/ru/error_404","_self");
 						localStorage.setItem("lang", "ru");
 					}
 					if ((lang!=="ru")&&(lang!=="uk")&&(lang!=="be"))
 					{
-						window.open("http://dimini-beta.tk/en/error_404","_self");
+						window.open("http://dimini.tk/en/error_404","_self");
 						localStorage.setItem("lang", "en");
 					}
 				}	
