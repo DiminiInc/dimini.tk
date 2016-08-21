@@ -15,12 +15,12 @@
 			<a href="javascript:void(0)" onclick="showLanguageChoice('language-choice'); return false;" class="nopadding-link"><img src="/global/site_files/flag_english.png"/>English</a>
 		</li>
 		<li style="white-space: nowrap;">  
-			<a href="#" class="nopadding-link"><img src="/global/site_files/facebook_logo.png"/></a> 
-			<a href="#" class="nopadding-link"><img src="/global/site_files/twitter_logo.png"/></a> 
-			<a href="#" class="nopadding-link"><img src="/global/site_files/vk_logo.png"/></a> 
-			<a href="#" class="nopadding-link"><img src="/global/site_files/googleplus_logo.png"/></a> 
-			<a href="#" class="nopadding-link"><img src="/global/site_files/instagram_logo.png"/></a> 
-			<a href="#" class="nopadding-link"><img src="/global/site_files/ok_logo.png"/></a>
+			<a href="https://www.facebook.com/diminiinc" class="nopadding-link"><img src="/global/site_files/facebook_logo.png"/></a> 
+			<a href="https://twitter.com/diminiinc" class="nopadding-link"><img src="/global/site_files/twitter_logo.png"/></a> 
+			<a href="https://vk.com/diminiinc" class="nopadding-link"><img src="/global/site_files/vk_logo.png"/></a> 
+			<a href="https://plus.google.com/+DiminiTk" class="nopadding-link"><img src="/global/site_files/googleplus_logo.png"/></a> 
+			<a href="https://www.instagram.com/diminiinc/" class="nopadding-link"><img src="/global/site_files/instagram_logo.png"/></a> 
+			<a href="https://ok.ru/group/53283832201387" class="nopadding-link"><img src="/global/site_files/ok_logo.png"/></a>
 		</li>
 	</ul>
 </div>
