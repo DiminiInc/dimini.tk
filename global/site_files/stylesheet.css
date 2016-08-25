@@ -828,6 +828,8 @@ body
 .share-buttons
 {
 	white-space: nowrap;
+	max-width:1000px;
+	margin:auto;
 }
 
 #site .share-buttons img
