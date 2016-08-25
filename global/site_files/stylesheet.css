@@ -824,3 +824,30 @@ body
 	padding-top:25px;
 	padding-bottom: 25px;
 }
+
+.share-buttons
+{
+	white-space: nowrap;
+}
+
+#site .share-buttons img
+{	
+	height:35px;
+	width:auto;
+	margin:2px;
+	vertical-align: middle;
+}
+
+.textwidget .share-buttons span
+{
+	display:none;
+}
+
+.textwidget .share-buttons img
+{	
+	height:35px;
+	width:auto;
+	margin:2px;
+	vertical-align: middle;
+	float:left;
+}
