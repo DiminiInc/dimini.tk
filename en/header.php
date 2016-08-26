@@ -15,6 +15,9 @@
 						<a href="/en/software/snake">Snake</a>
 					</li>
 					<li>
+						<a href="/en/software/battleship">Battleship</a>
+					</li>
+					<li>
 						<a href="/en/software/disearch">Dimini Search</a>
 					</li>		
 				</ul>
@@ -55,6 +58,9 @@
 				<ul>
 					<li>
 						<a href="/en/software/snake">Snake</a>
+					</li>
+					<li>
+						<a href="/en/software/battleship">Battleship</a>
 					</li>
 					<li>
 						<a href="/en/software/disearch">Dimini Search</a>
