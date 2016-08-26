@@ -77,6 +77,9 @@
 						<a href="/ru/software/snake">Змейка</a>
 					</li>
 					<li>
+						<a href="/ru/software/battleship">Морской бой</a>
+					</li>
+					<li>
 						<a href="/ru/software/disearch">Dimini Search</a>
 					</li>		
 				</ul>
@@ -117,6 +120,9 @@
 				<ul>
 					<li>
 						<a href="/ru/software/snake">Змейка</a>
+					</li>
+					<li>
+						<a href="/ru/software/battleship">Морской бой</a>
 					</li>
 					<li>
 						<a href="/ru/software/disearch">Dimini Search</a>
