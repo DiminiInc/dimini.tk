@@ -119,6 +119,12 @@ body
 	text-decoration:none;
 	color:#000;
 }
+
+#header li
+{
+	list-style: none;
+}
+
 #mainmenu img
 {
 	vertical-align:middle;
@@ -730,6 +736,11 @@ body
 #about_content li
 {
 	 list-style-type:none;
+}
+
+.ad-footer
+{
+	text-align: center;
 }
 
 .ad-footer div
