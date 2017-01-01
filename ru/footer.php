@@ -1,6 +1,6 @@
 <div id="footer">
 	<ul>
-		<li>&#169; Dimini Inc., 2016</li> 
+		<li>&#169; Dimini Inc., <?php echo date('Y') ?></li> 
 		<li>
 			<a href="mailto:dimini_inc@inbox.ru">Связаться с нами</a>
 		</li>
