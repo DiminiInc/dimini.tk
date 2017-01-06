@@ -322,6 +322,16 @@ body
 	display:none
 }
 
+.carousel-wrapper #battleship
+{
+	display:none
+}
+
+.carousel-wrapper #game-of-life
+{
+	display:none
+}
+
 .carousel-wrapper #dimini-search
 {
 	display:none
@@ -343,7 +353,7 @@ body
 	opacity:1
 }
 
-.carousel-wrapper #snake:target ~ .item-2,.carousel-wrapper #dimini-search:target ~ .item-3
+.carousel-wrapper #snake:target ~ .item-2, .carousel-wrapper #battleship:target ~ .item-3, .carousel-wrapper #game-of-life:target ~ .item-4, .carousel-wrapper #dimini-search:target ~ .item-5
 {
 	z-index:3;
 	opacity:1
