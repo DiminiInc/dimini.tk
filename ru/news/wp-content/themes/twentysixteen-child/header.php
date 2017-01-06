@@ -128,6 +128,9 @@
 						<a href="/ru/software/battleship">Морской бой</a>
 					</li>
 					<li>
+						<a href="/ru/software/game-of-life">Игра "Жизнь"</a>
+					</li>	
+					<li>
 						<a href="/ru/software/disearch">Dimini Search</a>
 					</li>		
 				</ul>

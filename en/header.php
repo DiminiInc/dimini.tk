@@ -66,6 +66,9 @@
 						<a href="/en/software/battleship">Battleship</a>
 					</li>
 					<li>
+						<a href="/en/software/game-of-life">Game of Life</a>
+					</li>
+					<li>
 						<a href="/en/software/disearch">Dimini Search</a>
 					</li>		
 				</ul>
