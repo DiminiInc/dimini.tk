@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<?php include("/home/u410479192/public_html/global/head.php"); ?>
+		<title>Игра "Жизнь" - Dimini Inc.</title>
+	</head>
+	<body>
+        <?php include("/home/u410479192/public_html/global/tagmanager.php"); ?>
+		<div id="site">
+			<?php include("/home/u410479192/public_html/ru/notification.php"); ?>
+			<?php include("/home/u410479192/public_html/ru/header.php"); ?>
+			<div id="snake_content">
+				<h1>Игра "Жизнь"(бета) <a href="/global/site_files/GameOfLife/GameOfLife.jar">СКАЧАТЬ</a>   <a href="https://github.com/kadavr95/GameOfLife/">Исходный код</a></h1> 
+				<p>
+					<h4>Рейтинг: <span style="font-weight:normal;"> Нет голосов</span></h4>
+				</p>
+				<p>
+					<h4>Загрузок: 0</h4>
+				</p>
+				<p>
+					Игра «Жизнь» — клеточный автомат, придуманный английским математиком Джоном Конвеем в 1970 году. <br>
+					Место действия этой игры — ограниченное поле, где верхняя граница поля соединена с нижней, а левая граница — с правой, что представляет собой эмуляцию поверхности тора.<br>
+					Каждая клетка на этой поверхности может находиться в двух состояниях: быть живой или быть мёртвой.<br>
+					Распределение живых клеток в начале игры называется первым поколением. Каждое следующее поколение рассчитывается на основе предыдущего по таким правилам:
+					<ul>
+						<li>в мёртвой клетке, рядом с которой ровно три живые клетки, зарождается жизнь</li>
+						<li>если рядом с живой клеткой находится две или три живые клетки, то эта клетка продолжает жить, иначе клетка умирает</li>
+					</ul>
+					Игрок не принимает прямого участия в игре, а лишь расставляет или генерирует начальную конфигурацию живых клеток, которые затем взаимодействуют согласно правилам уже без его участия.
+				</p>
+				<p>
+					<h4>Особенности программы</h4>
+					<ul>
+						<li>Автоматическое обновление</li>
+						<li>Настраиваемая скорость симуляции</li>
+						<li>Возможность выбора цвета клеток при задании начальной конфигурации</li>
+						<li>Открытый исходный код</li>
+					</ul>
+				</p>
+				<p>
+					<h4>Скриншоты</h4>
+					<div id="disearch_screenshot">
+						<a href="/ru/site_files/game-of-life-screenshot-1.png"><img id="disearchscreenshot" src="/ru/site_files/game-of-life-screenshot-1.png" /></a>
+					</div>
+				</p>
+				<p>
+					<h4>История изменений</h4>
+					<ul>
+						<li>
+							Версия 0.1.1.0 (бета)
+							<ul>
+								<li>первый выпуск</li>
+							</ul>
+						</li>
+					</ul>
+				</p>
+			</div>
+			<?php include("/home/u410479192/public_html/ru/share-buttons.php"); ?>
+			<?php include("/home/u410479192/public_html/global/ad-responsive.php"); ?>
+			<?php include("/home/u410479192/public_html/ru/footer.php"); ?>
+		</div>
+	</body>
+</html>
