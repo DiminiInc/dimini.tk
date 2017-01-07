@@ -18,7 +18,7 @@
       <p>Популярная игра "Змейка"</p>
     </a>
     <a class="arrow arrow-prev" href="#browsers-comparison"></a>
-    <a class="arrow arrow-next" href="#dimini-search"></a>
+    <a class="arrow arrow-next" href="#battleship"></a>
   </div>
   <div class="carousel-item item-3" style="background-color: #ffffff; background-image: url(/global/site_files/battleship-logo.png); background-size: auto; background-repeat: no-repeat; background-position:center;">
     <a class="pagelink" href="/ru/software/battleship">
