@@ -31,7 +31,7 @@
 					<li>
 						<a href="/ru/testdrive/browsers">Сравнение браузеров</a>
 					</li>
-					<li>
+					<!--<li>
 						<a href="/ru/testdrive/smartphones">Сравнение смартфонов</a>
 					</li>
 					<li>
@@ -39,7 +39,7 @@
 					</li>
 					<li>
 						<a href="/ru/testdrive/social_networks">Сравнение соцсетей</a>
-					</li>	
+					</li>-->	
 				</ul>
 			</li>
 			<li>
@@ -79,7 +79,7 @@
 					<li>
 						<a href="/ru/testdrive/browsers">Сравнение браузеров</a>
 					</li>
-					<li>
+					<!--<li>
 						<a href="/ru/testdrive/smartphones">Сравнение смартфонов</a>
 					</li>
 					<li>
@@ -87,7 +87,7 @@
 					</li>
 					<li>
 						<a href="/ru/testdrive/social_networks">Сравнение соцсетей</a>
-					</li>	
+					</li>-->	
 				</ul>
 			</li>
 			<li>

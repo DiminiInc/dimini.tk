@@ -41,7 +41,7 @@
 <body <?php body_class(); ?>>
 <div id="page" class="site">
 	
-<div id="notification">
+<!--<div id="notification">
 	<div class="information">
 		Вы используете тестовую версию сайта. Часть функций и контента может быть недоступна. Открыть старую версию сайта? 
 	</div>
@@ -49,7 +49,7 @@
 		<a href="http://dimini.tk">Да</a> 
 		<a href="javascript:void(0)" onclick="localStorage.setItem('notify_close', 'yes');hideNotification('notification'); return false;">Нет</a>
 	</div>
-</div>
+</div>-->
 <div id="language-notification">
 	<div class="information">
 		Do you want to change site language?
@@ -93,7 +93,7 @@
 					<li>
 						<a href="/ru/testdrive/browsers">Сравнение браузеров</a>
 					</li>
-					<li>
+					<!--<li>
 						<a href="/ru/testdrive/smartphones">Сравнение смартфонов</a>
 					</li>
 					<li>
@@ -101,7 +101,7 @@
 					</li>
 					<li>
 						<a href="/ru/testdrive/social_networks">Сравнение соцсетей</a>
-					</li>	
+					</li>-->	
 				</ul>
 			</li>
 			<li>
@@ -141,7 +141,7 @@
 					<li>
 						<a href="/ru/testdrive/browsers">Сравнение браузеров</a>
 					</li>
-					<li>
+					<!--<li>
 						<a href="/ru/testdrive/smartphones">Сравнение смартфонов</a>
 					</li>
 					<li>
@@ -149,7 +149,7 @@
 					</li>
 					<li>
 						<a href="/ru/testdrive/social_networks">Сравнение соцсетей</a>
-					</li>	
+					</li>-->
 				</ul>
 			</li>
 			<li>

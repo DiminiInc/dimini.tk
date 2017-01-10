@@ -31,7 +31,7 @@
 					<li>
 						<a href="/en/testdrive/browsers">Browsers comparison</a>
 					</li>
-					<li>
+					<!--<li>
 						<a href="/en/testdrive/smartphones">Smartphones comparison</a>
 					</li>
 					<li>
@@ -39,7 +39,7 @@
 					</li>
 					<li>
 						<a href="/en/testdrive/social_networks">Social networks comparison</a>
-					</li>	
+					</li>-->	
 				</ul>
 			</li>
 			<li>
@@ -79,7 +79,7 @@
 					<li>
 						<a href="/en/testdrive/browsers">Browsers comparison</a>
 					</li>
-					<li>
+					<!--<li>
 						<a href="/en/testdrive/smartphones">Smartphones comparison</a>
 					</li>
 					<li>
@@ -87,7 +87,7 @@
 					</li>
 					<li>
 						<a href="/en/testdrive/social_networks">Social networks comparison</a>
-					</li>	
+					</li>-->	
 				</ul>
 			</li>
 			<li>

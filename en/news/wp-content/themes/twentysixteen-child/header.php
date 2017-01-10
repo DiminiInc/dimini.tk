@@ -41,7 +41,7 @@
 <body <?php body_class(); ?>>
 <div id="page" class="site">
 	
-<div id="notification">
+<!--<div id="notification">
 	<div class="information">
 		You are using beta version of the site. Some functions and content may be unavailable. Open old version of the site? 
 	</div>
@@ -49,7 +49,7 @@
 		<a href="http://dimini.tk">Yes</a> 
 		<a href="javascript:void(0)" onclick="localStorage.setItem('notify_close', 'yes');hideNotification('notification'); return false;">No</a>
 	</div>
-</div>
+</div>-->
 <div id="language-notification">
 	<div class="information">
 		Хотите сменить язык сайта?
@@ -92,7 +92,7 @@
 					<li>
 						<a href="/en/testdrive/browsers">Browsers comparison</a>
 					</li>
-					<li>
+					<!--<li>
 						<a href="/en/testdrive/smartphones">Smartphones comparison</a>
 					</li>
 					<li>
@@ -100,7 +100,7 @@
 					</li>
 					<li>
 						<a href="/en/testdrive/social_networks">Social networks comparison</a>
-					</li>	
+					</li>-->	
 				</ul>
 			</li>
 			<li>
@@ -140,7 +140,7 @@
 					<li>
 						<a href="/en/testdrive/browsers">Browsers comparison</a>
 					</li>
-					<li>
+					<!--<li>
 						<a href="/en/testdrive/smartphones">Smartphones comparison</a>
 					</li>
 					<li>
@@ -148,7 +148,7 @@
 					</li>
 					<li>
 						<a href="/en/testdrive/social_networks">Social networks comparison</a>
-					</li>	
+					</li>-->	
 				</ul>
 			</li>
 			<li>
