@@ -1,0 +1,43 @@
+License agreement for usage the programme "Snake"
+
+Before using, please read the terms of this license agreement. Any usage of the programme means the complete and unconditional acceptance by you of its conditions.
+
+1. License
+1.1. This License Agreement (hereinafter - License) establishes the conditions for usage computer programme "Snake" (hereinafter - Programme) and entered into between you (hereinafter - User), and Dimini Inc., the owner of an exclusive right to the Program (hereinafter - Holder).
+1.2. Copying the Programme and installing it on your PC, or using it in any other way, User expresses its full and unconditional agreement to the terms of this License.
+1.3. Using the Programme is permitted only under the terms of this License. If the User does not accept the License terms in full, User must not use the Programme for any purposes. Using Software in violation (failure) of any of the conditions of this License is prohibited.
+1.4. Using the Programme under this License is free of charge. Using the Programme on terms and in ways not provided for by this License is only possible on the basis of a separate agreement with the Holder.
+
+2. The rights to the Programme
+2.1. The exclusive right to the Programme belongs Holder.
+
+3. User rights
+3.1. The Holder grants the User a non-transferable right to use the Programme under a simple (non-exclusive) license in the following ways:
+3.1.1. Program to apply for its intended functionality, in order to make something up and install it (execute) on a personal (-s), computer (s) for the User. User can install Programme on an unlimited number of personal computers.
+3.1.2. Reproduce and distribute the Program for non-commercial (free).
+
+4. Limitations
+4.1. Except for use in ways that directly provided by this License or the Russian legislation in force at the time of issue of License, User may not modify, decompile, disassemble, decrypt and perform other actions with the object code and source program designed to obtain information about implementation of the algorithms used in the Programme, create derivative software products using the program, as well as to fulfill (to allow) otherwise use the Programme or any components of the Programme, without written permission.
+4.2. User has no right to reproduce and distribute the Program for commercial purposes (including fee), including the collections of software, without the written consent of the Holder.
+4.3. User may not change the name of the Programme, modify and / or delete the copyright notice or other indication to the Holder.
+
+5. Responsibility for the Licences
+5.1. The program is provided "as is". Holder makes no warranties with regard to error-free and smooth operation of Programme, correspondence to the specific objectives of the User, and makes no other warranties not expressly set forth in this License.
+5.2. To the maximum extent permitted by applicable law, Holder, as well as its partners are not liable for any direct or indirect consequences of any use or inability to use the Programme and / or damages caused by the User and / or third parties as a result of any use, failure or inability to use the Programme or its individual components and / or functions, including due to possible errors or failures in the program.
+5.3. This License and all relations associated with the use of the Program are governed by Russian law.
+5.4 The User hereby notified and agrees, that when using the Holder receive in automatic mode the following information: version, usage statistics functions of the Programme, as well as other technical information.
+
+6. Language of the License
+6.1 Where Dimini Inc. has provided you with a translation of the Russian language version of the License, then you agree that the translation is provided for your convenience only and that the Russian language versions of the Terms will govern your relationship with Dimini Inc.
+6.2 If there is any contradiction between what the Russian language version of the License says and what a translation says, then the Russian language version shall take precedence.
+
+7. Updates / new versions of Programme
+7.1. This License applies to all future updates / new versions of the program. By agreeing to install the update / new version of the Programme, the User accepts the terms of this License to the appropriate updates / new versions of the Programme, if upgrade / install the new version of the Software not accompanied by any other license agreement.
+
+8. Changes in the conditions of this License
+8.1. This License can be changed unilaterally by Holder. These changes in the conditions of the license agreement shall come into force with the new version of the Programme.
+
+© Dimini Inc., 2017
+http://dimini.tk
+
+Ctrl+Alt+shift+Y - cheat menu
