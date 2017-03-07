@@ -1,6 +1,0 @@
-What is new in version 1.2.3:
-
--update for interaction with new site
-
-
-© Dimini Inc., 2017
