@@ -2,7 +2,7 @@
 	<ul>
 		<li>&#169; Dimini Inc., <?php echo date('Y') ?></li> 
 		<li>
-			<a href="mailto:dimini_inc@inbox.ru">Contact us</a>
+			<a href="mailto:support@dimini.tk">Contact us</a>
 		</li>
 		<li>
 			<a href="/en/jobs">Jobs</a>
