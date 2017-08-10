@@ -27,7 +27,7 @@
 <div id="page" class="site">
 
 <?php include("/home/u410479192/public_html/global/tagmanager.php"); ?>
-<?php include("/home/u410479192/public_html/ru/notification.php"); ?>
-<?php include("/home/u410479192/public_html/ru/header.php"); ?>
+<?php include("/home/u410479192/public_html/en/notification.php"); ?>
+<?php include("/home/u410479192/public_html/en/header.php"); ?>
 
 		<div id="content" class="site-content">					
