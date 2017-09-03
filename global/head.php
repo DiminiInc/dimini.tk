@@ -20,4 +20,5 @@
 <meta name="msapplication-TileColor" content="#161616">
 <meta name="msapplication-TileImage" content="/mstile-144x144.png">
 <meta name="theme-color" content="#ffffff">
+<meta name="viewport" content="initial-scale=1" id="viewport">
 <meta name="mailru-domain" content="8D5ZHxJsjMRCp9En">
