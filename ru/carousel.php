@@ -4,12 +4,13 @@
 <span class="hidden-target" id="battleship"></span>
 <span class="hidden-target" id="game-of-life"></span>
 <span class="hidden-target" id="dimini-search"></span>
+<span class="hidden-target" id="hearthstone-cards-rating"></span>
 <div class="carousel-item item-1" style="background-color:#fff;background-image:url(/global/site-files/browsers-carousel.png);background-size:100%;background-repeat:no-repeat;background-position:center">
 <a class="pagelink" href="/ru/statistics/testdrive/browsers">
 <h2>Сравнение браузеров</h2>
 <p>Сравнение множества браузеров для различных операционных систем</p>
 </a>
-<a class="arrow arrow-prev" href="#dimini-search" title="Перейти на предыдущий"></a>
+<a class="arrow arrow-prev" href="#hearthstone-cards-rating" title="Перейти на предыдущий"></a>
 <a class="arrow arrow-next" href="#snake" title="Перейти на следующий"></a>
 </div>
 <div class="carousel-item item-2" style="background-color:#fff;background-image:url(/global/site-files/snake-logo.png);background-size:contain;background-repeat:no-repeat;background-position:center">
@@ -42,6 +43,14 @@
 <p>Программа для быстрого поиска в различных поисковых системах</p>
 </a>
 <a class="arrow arrow-prev" href="#game-of-life" title="Перейти на предыдущий"></a>
+<a class="arrow arrow-next" href="#hearthstone-cards-rating" title="Перейти на следующий"></a>
+</div>
+<div class="carousel-item item-6" style="background-color:#fff;background-image:url(/global/site-files/hearthstone-cards-rating-logo.png);background-size:contain;background-repeat:no-repeat;background-position:center">
+<a class="pagelink" href="/ru/statistics/games/hearthstone-cards-rating">
+<h2>Рейтинг карт Hearthstone</h2>
+<p>Информация о текущей полезности карт в коллекционной карточной игре Hearthstone</p>
+</a>
+<a class="arrow arrow-prev" href="#dimini-search" title="Перейти на предыдущий"></a>
 <a class="arrow arrow-next" href="#browsers-comparison" title="Перейти на следующий"></a>
 </div>
 </div>
