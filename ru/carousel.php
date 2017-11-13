@@ -3,6 +3,7 @@
 <span class="hidden-target" id="snake"></span>
 <span class="hidden-target" id="battleship"></span>
 <span class="hidden-target" id="game-of-life"></span>
+<span class="hidden-target" id="balls"></span>
 <span class="hidden-target" id="dimini-search"></span>
 <span class="hidden-target" id="hearthstone-cards-rating"></span>
 <div class="carousel-item item-1" style="background-color:#fff;background-image:url(/global/site-files/browsers-carousel.png);background-size:100%;background-repeat:no-repeat;background-position:center">
@@ -35,17 +36,25 @@
 <p>Клеточный автомат Джона Конвея</p>
 </a>
 <a class="arrow arrow-prev" href="#battleship" title="Перейти на предыдущий"></a>
+<a class="arrow arrow-next" href="#balls" title="Перейти на следующий"></a>
+</div>
+<div class="carousel-item item-5" style="background-color:#fff;background-image:url(/global/site-files/balls-logo.png);background-size:contain;background-repeat:no-repeat;background-position:center">
+<a class="pagelink" href="/ru/software/balls">
+<h2>Шары</h2>
+<p>Залипательные столкновения шаров на экране вашего монитора</p>
+</a>
+<a class="arrow arrow-prev" href="#game-of-life" title="Перейти на предыдущий"></a>
 <a class="arrow arrow-next" href="#dimini-search" title="Перейти на следующий"></a>
 </div>
-<div class="carousel-item item-5" style="background-color:#fff;background-image:url(/global/site-files/disearch-logo.png);background-size:contain;background-repeat:no-repeat;background-position:center">
+<div class="carousel-item item-6" style="background-color:#fff;background-image:url(/global/site-files/disearch-logo.png);background-size:contain;background-repeat:no-repeat;background-position:center">
 <a class="pagelink" href="/ru/software/disearch">
 <h2>Dimini Search</h2>
 <p>Программа для быстрого поиска в различных поисковых системах</p>
 </a>
-<a class="arrow arrow-prev" href="#game-of-life" title="Перейти на предыдущий"></a>
+<a class="arrow arrow-prev" href="#balls" title="Перейти на предыдущий"></a>
 <a class="arrow arrow-next" href="#hearthstone-cards-rating" title="Перейти на следующий"></a>
 </div>
-<div class="carousel-item item-6" style="background-color:#fff;background-image:url(/global/site-files/hearthstone-cards-rating-logo.png);background-size:contain;background-repeat:no-repeat;background-position:center">
+<div class="carousel-item item-7" style="background-color:#fff;background-image:url(/global/site-files/hearthstone-cards-rating-logo.png);background-size:contain;background-repeat:no-repeat;background-position:center">
 <a class="pagelink" href="/ru/statistics/games/hearthstone-cards-rating">
 <h2>Рейтинг карт Hearthstone</h2>
 <p>Информация о текущей полезности карт в коллекционной карточной игре Hearthstone</p>
