@@ -53,7 +53,7 @@
 <a href="/ru/news">Новости</a>
 </li>
 <li>
-<a href="javascript:void(0);" onclick='showSubMenu("software-menu","software-submenu")' id="software-menu">&#9662; Программы &#9662;</a>
+<a href="javascript:void(0);" onclick='showSubMenu("software-menu","software-submenu")' id="software-menu"><span class="submenu-arrows">&#9660;</span> Программы <span class="submenu-arrows">&#9660;</span></a>
 <ul id="software-submenu">
 <li>
 <a href="/ru/software/snake">Змейка</a>
@@ -73,7 +73,7 @@
 </ul>
 </li>
 <li>
-<a href="javascript:void(0);" onclick='showSubMenu("statistics-menu","statistics-submenu")' id="statistics-menu">&#9662; Статистика &#9662;</a>
+<a href="javascript:void(0);" onclick='showSubMenu("statistics-menu","statistics-submenu")' id="statistics-menu"><span class="submenu-arrows">&#9660;</span> Статистика <span class="submenu-arrows">&#9660;</span></a>
 <ul id="statistics-submenu">
 <li>
 <a href="/ru/statistics/testdrive">Тестирование</a>

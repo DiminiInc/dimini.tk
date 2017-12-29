@@ -53,7 +53,7 @@
 <a href="/en/news">News</a>
 </li>
 <li>
-<a href="javascript:void(0);" onclick='showSubMenu("software-menu","software-submenu")' id="software-menu">&#9662; Software &#9662;</a>
+<a href="javascript:void(0);" onclick='showSubMenu("software-menu","software-submenu")' id="software-menu"><span class="submenu-arrows">&#9660;</span> Software <span class="submenu-arrows">&#9660;</span></a>
 <ul id="software-submenu">
 <li>
 <a href="/en/software/snake">Snake</a>
@@ -73,7 +73,7 @@
 </ul>
 </li>
 <li>
-<a href="javascript:void(0);" onclick='showSubMenu("statistics-menu","statistics-submenu")' id="statistics-menu">&#9662; Statistics &#9662;</a>
+<a href="javascript:void(0);" onclick='showSubMenu("statistics-menu","statistics-submenu")' id="statistics-menu"><span class="submenu-arrows">&#9660;</span> Statistics <span class="submenu-arrows">&#9660;</span></a>
 <ul id="statistics-submenu">
 <li>
 <a href="/en/statistics/testdrive">Testdrive</a>
