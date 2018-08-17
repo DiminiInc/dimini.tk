@@ -36,6 +36,9 @@
 <li>
 <a href="/en/statistics/games">Games statistics</a>
 </li>
+<li>
+<a href="/en/statistics/uncategorized">Uncategorized statistics</a>
+</li>
 </ul>
 </li>
 <li>
@@ -80,6 +83,9 @@
 </li>
 <li>
 <a href="/en/statistics/games">Games statistics</a>
+</li>
+<li>
+<a href="/en/statistics/uncategorized">Uncategorized statistics</a>
 </li>
 </ul>
 </li>

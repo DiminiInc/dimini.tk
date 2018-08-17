@@ -36,6 +36,9 @@
 <li>
 <a href="/ru/statistics/games">Игровая статистика</a>
 </li>
+<li>
+<a href="/ru/statistics/uncategorized">Некатегоризированная статистика</a>
+</li>
 </ul>
 </li>
 <li>
@@ -80,6 +83,9 @@
 </li>
 <li>
 <a href="/ru/statistics/games">Игровая статистика</a>
+</li>
+<li>
+<a href="/ru/statistics/uncategorized">Некатегоризированная статистика</a>
 </li>
 </ul>
 </li>
