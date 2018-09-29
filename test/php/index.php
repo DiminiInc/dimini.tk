@@ -54,7 +54,7 @@
 					<p>
 						This rating shows cards ratings in both Standard and Wild formats, as well as overall in game ratings. The ratings are relative to a rating of all cards in case of they power and popularity equality, so rating of 1.00 is an average card, lower ratings are for bad card which are not worthy of crafting and higher ratings are for good cards and the higher rating is the higher is need to craft them. It is also shown the average number of cards copies used in deck to show you if it is needed to craft another copy or one will be enough.
 					</p>
-					<p>Last update: May 4, 2018</p>
+					<p>Last update: Month DD, YYYY</p>
 					<!-- <p style="color:#e80808;">&#9888; Due to recent expansion release current rating can vary from rating after meta stabilization</p> -->
 					<div id="crafting-guide-table" class="display" cellspacing="0" width="100">
 						<table id="craftingGuideTable">
