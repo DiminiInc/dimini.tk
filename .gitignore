@@ -2,3 +2,4 @@
 *.eot
 *.ttf
 *.woff
+/test/
