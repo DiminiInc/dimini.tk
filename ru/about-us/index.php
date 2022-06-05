@@ -44,7 +44,7 @@ Dimini Inc. - IT-компания из России, основанная в 200
 </a>
 <h3>Яскович Дмитрий</h3>
 <p>
-Генеральный директор, ведущий разработчик, ведущий дизайнер, глава отдела обеспечения качества, ведущий переводчик, ведущий специалист SMM, ведущий специалист SEO, ведущий копирайтер, глава отдела кадров, глава техподдержки
+Генеральный директор, ведущий разработчик, ведущий дизайнер, глава отдела обеспечения качества, ведущий переводчик, ведущий специалист SMM, ведущий специалист SEO, ведущий копирайтер, глава отдела кадров, глава техподдержки, ведущий юрист, ведущий композитор
 </p>
 <p>
 Ссылки:
@@ -117,21 +117,6 @@ Dimini Inc. - IT-компания из России, основанная в 200
 </p>
 </div>
 <div class="stuff-info">
-<a href="/ru/about-us/verstunin-nikita">
-<div class="person-photo">
-<img src="/global/site-files/verstunin-n-photo.jpg" alt="Фото: Верстунин Н.">
-</div>
-</a>
-<h3>Верстунин Никита</h3>
-<p>
-Дизайнер
-</p>
-<p>
-Ссылки:
-<a href="https://vk.com/white_templar"><img src="/global/site-files/vk-logo.svg" alt="Лого ВКонтакте"></a>
-</p>
-</div>
-<div class="stuff-info">
 <a href="/ru/about-us/segen-nikolai">
 <div class="person-photo">
 <img src="/global/site-files/segen-n-photo.jpg" alt="Фото: Сегень Н.">
@@ -144,6 +129,21 @@ Dimini Inc. - IT-компания из России, основанная в 200
 <p>
 Ссылки:
 <a href="https://vk.com/fr0nt1er"><img src="/global/site-files/vk-logo.svg" alt="Лого ВКонтакте"></a>
+</p>
+</div>
+<div class="stuff-info ex-stuff">
+<a href="/ru/about-us/verstunin-nikita">
+<div class="person-photo">
+<img src="/global/site-files/verstunin-n-photo.jpg" alt="Фото: Верстунин Н.">
+</div>
+</a>
+<h3>Верстунин Никита</h3>
+<p>
+Дизайнер
+</p>
+<p>
+Ссылки:
+<a href="https://vk.com/white_templar"><img src="/global/site-files/vk-logo.svg" alt="Лого ВКонтакте"></a>
 </p>
 </div>
 <h2>Наши партнёры</h2>

@@ -44,7 +44,7 @@ Dimini Inc. - IT company from Russia, founded in 2009. Company specializing in s
 </a>
 <h3>Yaskovich Dmitry</h3>
 <p>
-CEO, Lead developer, Lead designer, QA lead, Lead translator, Lead SMM specialist, Lead SEO specialist, Lead copywriter, HR Lead, Support Lead
+CEO, Lead developer, Lead designer, QA lead, Lead translator, Lead SMM specialist, Lead SEO specialist, Lead copywriter, HR Lead, Support Lead, Lead lawyer, Lead composer
 </p>
 <p>
 Links:
@@ -117,21 +117,6 @@ Composer
 </p>
 </div>
 <div class="stuff-info">
-<a href="/en/about-us/verstunin-nikita">
-<div class="person-photo">
-<img src="/global/site-files/verstunin-n-photo.jpg" alt="Verstunin N. Photo">
-</div>
-</a>
-<h3>Verstunin Nikita</h3>
-<p>
-Designer
-</p>
-<p>
-Links:
-<a href="https://vk.com/white_templar"><img src="/global/site-files/vk-logo.svg" alt="VK logo"></a>
-</p>
-</div>
-<div class="stuff-info">
 <a href="/en/about-us/segen-nikolai">
 <div class="person-photo">
 <img src="/global/site-files/segen-n-photo.jpg" alt="Segen N. Photo">
@@ -144,6 +129,21 @@ Translator, Copywriter, HR specialist, Lawyer, Support specialist
 <p>
 Links:
 <a href="https://vk.com/fr0nt1er"><img src="/global/site-files/vk-logo.svg" alt="VK logo"></a>
+</p>
+</div>
+<div class="stuff-info ex-stuff">
+<a href="/en/about-us/verstunin-nikita">
+<div class="person-photo">
+<img src="/global/site-files/verstunin-n-photo.jpg" alt="Verstunin N. Photo">
+</div>
+</a>
+<h3>Verstunin Nikita</h3>
+<p>
+Designer
+</p>
+<p>
+Links:
+<a href="https://vk.com/white_templar"><img src="/global/site-files/vk-logo.svg" alt="VK logo"></a>
 </p>
 </div>
 <h2>Our partners</h2>
