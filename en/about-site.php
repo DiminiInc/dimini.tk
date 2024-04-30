@@ -4,13 +4,13 @@
 <?php include("../global/head.php"); ?>
 <title>About site - Dimini Inc.</title>
 <meta name='description' content='Information about site: authors, technologies, changelog, agreements'>
-<link rel='canonical' href='https://dimini.tk/en/about-site'>
-<link rel='alternate' hreflang='en' href='https://dimini.tk/en/about-site'>
-<link rel='alternate' hreflang='ru' href='https://dimini.tk/ru/about-site'>
+<link rel='canonical' href='https://legacy.dimini.dev/en/about-site'>
+<link rel='alternate' hreflang='en' href='https://legacy.dimini.dev/en/about-site'>
+<link rel='alternate' hreflang='ru' href='https://legacy.dimini.dev/ru/about-site'>
 <meta property='og:title' content='About site - Dimini Inc.'>
 <meta property='og:type' content='website'>
-<meta property='og:url' content='https://dimini.tk/en/about-site'>
-<meta property='og:image' content='https://dimini.tk/site-logo.png'>
+<meta property='og:url' content='https://legacy.dimini.dev/en/about-site'>
+<meta property='og:image' content='https://legacy.dimini.dev/site-logo.png'>
 <meta property='og:description' content='Information about site: authors, technologies, changelog, agreements'>
 </head>
 <body>
@@ -21,13 +21,56 @@
 <div id='about_content'>
 <h1>Dimini Inc. official site</h1>
 <p id='new-version-direct-link'>
-<strong>Site version: </strong>3.13.6
+<strong>Site version: </strong>3.14.1
 </p>
 <p>
 <strong>Changelog: </strong><a href='https://github.com/DiminiInc/dimini.tk-dev'>Github(dev)</a>/<a href='https://github.com/DiminiInc/dimini.tk'>Github(releases)</a>
 </p><ul id='software-changelog'>
 <li id='software-last-update'>
-Version 3.13.6 (February 3, 2024) <a href='javascript:void(0)' class='show-more'>(show&nbsp;less)</a>
+Version 3.14.1 (April 30, 2024) <a href='javascript:void(0)' class='show-more'>(show&nbsp;less)</a>
+<ul class='show-more-details'>
+<li>Hearthstone cards ratings were updated</li>
+</ul>
+</li>
+<li>
+Version 3.14 (April 21, 2024) <a href='javascript:void(0)' class='show-more'>(show&nbsp;more)</a>
+<ul class='show-more-details'>
+<li>site moved to legacy.dimini.dev</li>
+<li>Hearthstone cards ratings were updated</li>
+</ul>
+</li>
+<li>
+Version 3.13.11 (April 7, 2024) <a href='javascript:void(0)' class='show-more'>(show&nbsp;more)</a>
+<ul class='show-more-details'>
+<li>Hearthstone cards ratings were updated for the Whizbang's Workshop meta</li>
+</ul>
+</li>
+<li>
+Version 3.13.10 (March 23, 2024) <a href='javascript:void(0)' class='show-more'>(show&nbsp;more)</a>
+<ul class='show-more-details'>
+<li>Hearthstone cards ratings were updated</li>
+</ul>
+</li>
+<li>
+Version 3.13.9 (March 15, 2024) <a href='javascript:void(0)' class='show-more'>(show&nbsp;more)</a>
+<ul class='show-more-details'>
+<li>Hearthstone cards ratings were updated</li>
+</ul>
+</li>
+<li>
+Version 3.13.8 (March 1, 2024) <a href='javascript:void(0)' class='show-more'>(show&nbsp;more)</a>
+<ul class='show-more-details'>
+<li>Hearthstone cards ratings were updated</li>
+</ul>
+</li>
+<li>
+Version 3.13.7 (February 16, 2024) <a href='javascript:void(0)' class='show-more'>(show&nbsp;more)</a>
+<ul class='show-more-details'>
+<li>Hearthstone cards ratings were updated</li>
+</ul>
+</li>
+<li>
+Version 3.13.6 (February 3, 2024) <a href='javascript:void(0)' class='show-more'>(show&nbsp;more)</a>
 <ul class='show-more-details'>
 <li>Hearthstone cards ratings were updated</li>
 </ul>

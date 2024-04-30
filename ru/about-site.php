@@ -4,13 +4,13 @@
 <?php include("../global/head.php"); ?>
 <title>О сайте - Dimini Inc.</title>
 <meta name='description' content='Информация о сайте: авторы, технологии, история изменений, соглашения'>
-<link rel='canonical' href='https://dimini.tk/ru/about-site'>
-<link rel='alternate' hreflang='en' href='https://dimini.tk/en/about-site'>
-<link rel='alternate' hreflang='ru' href='https://dimini.tk/ru/about-site'>
+<link rel='canonical' href='https://legacy.dimini.dev/ru/about-site'>
+<link rel='alternate' hreflang='en' href='https://legacy.dimini.dev/en/about-site'>
+<link rel='alternate' hreflang='ru' href='https://legacy.dimini.dev/ru/about-site'>
 <meta property='og:title' content='О сайте - Dimini Inc.'>
 <meta property='og:type' content='website'>
-<meta property='og:url' content='https://dimini.tk/ru/about-site'>
-<meta property='og:image' content='https://dimini.tk/site-logo.png'>
+<meta property='og:url' content='https://legacy.dimini.dev/ru/about-site'>
+<meta property='og:image' content='https://legacy.dimini.dev/site-logo.png'>
 <meta property='og:description' content='Информация о сайте: авторы, технологии, история изменений, соглашения'>
 </head>
 <body>
@@ -21,13 +21,56 @@
 <div id='about_content'>
 <h1>Официальный сайт Dimini Inc.</h1>
 <p id='new-version-direct-link'>
-<strong>Версия сайта: </strong>3.13.6
+<strong>Версия сайта: </strong>3.14.1
 </p>
 <p>
 <strong>История изменений: </strong><a href='https://github.com/DiminiInc/dimini.tk-dev'>Github(разработка)</a>/<a href='https://github.com/DiminiInc/dimini.tk'>Github(релизы)</a>
 </p><ul id='software-changelog'>
 <li id='software-last-update'>
-Версия 3.13.6 (Февраль 3, 2024) <a href='javascript:void(0)' class='show-more'>(свернуть)</a>
+Версия 3.14.1 (Апрель 30, 2024) <a href='javascript:void(0)' class='show-more'>(свернуть)</a>
+<ul class='show-more-details'>
+<li>обновлены рейтинги карт Hearthstone</li>
+</ul>
+</li>
+<li>
+Версия 3.14 (Апрель 21, 2024) <a href='javascript:void(0)' class='show-more'>(развернуть)</a>
+<ul class='show-more-details'>
+<li>сайт переехал по адресу legacy.dimini.dev</li>
+<li>обновлены рейтинги карт Hearthstone</li>
+</ul>
+</li>
+<li>
+Версия 3.13.11 (Апрель 7, 2024) <a href='javascript:void(0)' class='show-more'>(развернуть)</a>
+<ul class='show-more-details'>
+<li>рейтинги карт Hearthstone обновлены к мете дополнения "Мастерская Чудастера"</li>
+</ul>
+</li>
+<li>
+Версия 3.13.10 (Март 23, 2024) <a href='javascript:void(0)' class='show-more'>(развернуть)</a>
+<ul class='show-more-details'>
+<li>обновлены рейтинги карт Hearthstone</li>
+</ul>
+</li>
+<li>
+Версия 3.13.9 (Март 15, 2024) <a href='javascript:void(0)' class='show-more'>(развернуть)</a>
+<ul class='show-more-details'>
+<li>обновлены рейтинги карт Hearthstone</li>
+</ul>
+</li>
+<li>
+Версия 3.13.8 (Март 1, 2024) <a href='javascript:void(0)' class='show-more'>(развернуть)</a>
+<ul class='show-more-details'>
+<li>обновлены рейтинги карт Hearthstone</li>
+</ul>
+</li>
+<li>
+Версия 3.13.7 (Февраль 16, 2024) <a href='javascript:void(0)' class='show-more'>(развернуть)</a>
+<ul class='show-more-details'>
+<li>обновлены рейтинги карт Hearthstone</li>
+</ul>
+</li>
+<li>
+Версия 3.13.6 (Февраль 3, 2024) <a href='javascript:void(0)' class='show-more'>(развернуть)</a>
 <ul class='show-more-details'>
 <li>обновлены рейтинги карт Hearthstone</li>
 </ul>

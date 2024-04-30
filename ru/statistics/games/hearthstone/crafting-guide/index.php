@@ -5,13 +5,13 @@
 <script src='https://cdnjs.cloudflare.com/ajax/libs/lazysizes/4.1.5/lazysizes.min.js' integrity='sha384-kcHbsH7ihpUcc4OyUulJnPvXfoGbjzLc54UiRx5tLl5UE8KuoRRYv7KYQCW6p4eO' crossorigin='anonymous' defer></script>
 <title>Рейтинг карт Hearthstone - Dimini Inc.</title>
 <meta name='description' content='Информация о текущей полезности карт в Hearthstone'>
-<link rel='canonical' href='https://dimini.tk/ru/statistics/games/hearthstone/crafting-guide/'>
-<link rel='alternate' hreflang='en' href='https://dimini.tk/en/statistics/games/hearthstone/crafting-guide/'>
-<link rel='alternate' hreflang='ru' href='https://dimini.tk/ru/statistics/games/hearthstone/crafting-guide/'>
+<link rel='canonical' href='https://legacy.dimini.dev/ru/statistics/games/hearthstone/crafting-guide/'>
+<link rel='alternate' hreflang='en' href='https://legacy.dimini.dev/en/statistics/games/hearthstone/crafting-guide/'>
+<link rel='alternate' hreflang='ru' href='https://legacy.dimini.dev/ru/statistics/games/hearthstone/crafting-guide/'>
 <meta property='og:title' content='Рейтинг карт Hearthstone - Dimini Inc.'>
 <meta property='og:type' content='website'>
-<meta property='og:url' content='https://dimini.tk/ru/statistics/games/hearthstone/crafting-guide/'>
-<meta property='og:image' content='https://dimini.tk/global/site-files/hearthstone-cards-rating-logo.png'>
+<meta property='og:url' content='https://legacy.dimini.dev/ru/statistics/games/hearthstone/crafting-guide/'>
+<meta property='og:image' content='https://legacy.dimini.dev/global/site-files/hearthstone-cards-rating-logo.png'>
 <meta property='og:description' content='Информация о текущей полезности карт в Hearthstone'>
 </head>
 <body>
@@ -45,7 +45,7 @@
 <li>Поисковые критерии в формате "критерий:значение", например "class:mage". Доступные критерии:</li>
 <ul>
 <li>Редкость. Rarity: FREE, COMMON, RARE, EPIC, LEGENDARY</li>
-<li>Набор. Set: CORE, EXPERT1, HOF, NAXX, GVG, BRM, TGT, LOE, OG, KARA, GANGS, UNGORO, ICECROWN, LOOTAPALOOZA, GILNEAS, BOOMSDAY, TROLL, DALARAN, ULDUM, DRAGONS, YEAR_OF_THE_DRAGON, DEMON_HUNTER_INITIATE, BLACK_TEMPLE, SCHOLOMANCE, DARKMOON_FAIRE, DARKMOON_FAIRE_MINI_SET, THE_BARRENS, THE_BARRENS_MINI_SET, STORMWIND, STORMWIND_MINI_SET, ALTERAC_VALLEY, ALTERAC_VALLEY_MINI_SET, THE_SUNKEN_CITY, THE_SUNKEN_CITY_MINI_SET, REVENDRETH, REVENDRETH_MINI_SET, PATH_OF_ARTHAS, RETURN_OF_THE_LICH_KING, RETURN_OF_THE_LICH_KING_MINI_SET, BATTLE_OF_THE_BANDS, BATTLE_OF_THE_BANDS_MINI_SET, TITANS, TITANS_MINI_SET, WILD_WEST</li>
+<li>Набор. Set: CORE, EXPERT1, HOF, NAXX, GVG, BRM, TGT, LOE, OG, KARA, GANGS, UNGORO, ICECROWN, LOOTAPALOOZA, GILNEAS, BOOMSDAY, TROLL, DALARAN, ULDUM, DRAGONS, YEAR_OF_THE_DRAGON, DEMON_HUNTER_INITIATE, BLACK_TEMPLE, SCHOLOMANCE, DARKMOON_FAIRE, DARKMOON_FAIRE_MINI_SET, THE_BARRENS, THE_BARRENS_MINI_SET, STORMWIND, STORMWIND_MINI_SET, ALTERAC_VALLEY, ALTERAC_VALLEY_MINI_SET, THE_SUNKEN_CITY, THE_SUNKEN_CITY_MINI_SET, REVENDRETH, REVENDRETH_MINI_SET, PATH_OF_ARTHAS, RETURN_OF_THE_LICH_KING, RETURN_OF_THE_LICH_KING_MINI_SET, BATTLE_OF_THE_BANDS, BATTLE_OF_THE_BANDS_MINI_SET, TITANS, TITANS_MINI_SET, WILD_WEST, WILD_WEST_MINI_SET, WHIZBANGS_WORKSHOP</li>
 <li>Класс. Class: DEATHKNIGHT, DEMONHUNTER, DRUID, HUNTER, MAGE, PALADIN, PRIEST, ROGUE, SHAMAN, WARLOCK, WARRIOR, NEUTRAL</li>
 </ul>
 <li>Легендарные карты: ★</li>

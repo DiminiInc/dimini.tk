@@ -4,13 +4,13 @@
 <?php include("../../global/head.php"); ?>
 <title>Ivan Ippolitov - Dimini Inc.</title>
 <meta name="description" content="Ivan Ippolitov: information about Dimini Inc. employee">
-<link rel="canonical" href="https://dimini.tk/en/about-us/ippolitov-ivan">
-<link rel="alternate" hreflang="en" href="https://dimini.tk/en/about-us/ippolitov-ivan">
-<link rel="alternate" hreflang="ru" href="https://dimini.tk/ru/about-us/ippolitov-ivan">
+<link rel="canonical" href="https://legacy.dimini.dev/en/about-us/ippolitov-ivan">
+<link rel="alternate" hreflang="en" href="https://legacy.dimini.dev/en/about-us/ippolitov-ivan">
+<link rel="alternate" hreflang="ru" href="https://legacy.dimini.dev/ru/about-us/ippolitov-ivan">
 <meta property="og:title" content="Ivan Ippolitov - Dimini Inc.">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://dimini.tk/en/about-us/ippolitov-ivan">
-<meta property="og:image" content="https://dimini.tk/site-logo.png">
+<meta property="og:url" content="https://legacy.dimini.dev/en/about-us/ippolitov-ivan">
+<meta property="og:image" content="https://legacy.dimini.dev/site-logo.png">
 <meta property="og:description" content="Ivan Ippolitov: information about Dimini Inc. employee">
 </head>
 <body>
@@ -30,7 +30,7 @@
 <div id="general">
 <p><b>Contacts:</b>
 <br>
-<a href="mailto:ippolitovia@dimini.tk"><img src="/global/site-files/email-icon.svg" alt="Email icon"></a>
+<a href="mailto:ippolitovia@dimini.dev"><img src="/global/site-files/email-icon.svg" alt="Email icon"></a>
 </p>
 </div>
 <div id="column-right">

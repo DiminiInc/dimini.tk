@@ -4,13 +4,13 @@
 <?php include("../../global/head.php"); ?>
 <title>Петровичева Светлана - Dimini Inc.</title>
 <meta name="description" content="Петровичева Светлана: информация о сотруднике компании Dimini Inc.">
-<link rel="canonical" href="https://dimini.tk/ru/about-us/petrovicheva-svetlana">
-<link rel="alternate" hreflang="en" href="https://dimini.tk/en/about-us/petrovicheva-svetlana">
-<link rel="alternate" hreflang="ru" href="https://dimini.tk/ru/about-us/petrovicheva-svetlana">
+<link rel="canonical" href="https://legacy.dimini.dev/ru/about-us/petrovicheva-svetlana">
+<link rel="alternate" hreflang="en" href="https://legacy.dimini.dev/en/about-us/petrovicheva-svetlana">
+<link rel="alternate" hreflang="ru" href="https://legacy.dimini.dev/ru/about-us/petrovicheva-svetlana">
 <meta property="og:title" content="Петровичева Светлана - Dimini Inc.">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://dimini.tk/ru/about-us/petrovicheva-svetlana">
-<meta property="og:image" content="https://dimini.tk/site-logo.png">
+<meta property="og:url" content="https://legacy.dimini.dev/ru/about-us/petrovicheva-svetlana">
+<meta property="og:image" content="https://legacy.dimini.dev/site-logo.png">
 <meta property="og:description" content="Петровичева Светлана: информация о сотруднике компании Dimini Inc.">
 </head>
 <body>
@@ -30,7 +30,7 @@
 <div id="general">
 <p><b>Контакты:</b>
 <br>
-<a href="mailto:petrovichevasd@dimini.tk"><img src="/global/site-files/email-icon.svg" alt="Иконка почты"></a>
+<a href="mailto:petrovichevasd@dimini.dev"><img src="/global/site-files/email-icon.svg" alt="Иконка почты"></a>
 </p>
 </div>
 <div id="column-right">
